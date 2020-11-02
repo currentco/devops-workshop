@@ -13,7 +13,7 @@ Hint! [Create a project](/Week1.md)
 
 - When your namespace has new priviledges, proceed to the next step.
 
-# 2. Creating a batabase image
+# 2. Creating a database image
 1. In the upper left corner, click on Administrator and choose Developer. 
    + **Hint!** [Find a developer view](/Developer-view.png)
 
